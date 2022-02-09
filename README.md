@@ -1,4 +1,4 @@
-#  Blue Spiral
+#  Davidope I
 This project is very much inspired by davidope's art
 
 It is an expiriment on stacking animation of rotation matrices together. It turned out to be more interesting then expected
