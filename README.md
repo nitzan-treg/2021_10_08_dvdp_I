@@ -1,5 +1,5 @@
 #  Davidope I
-This project is very much inspired by davidope's art
+This project is very much inspired by davidope's art https://www.instagram.com/dvdp/
 
 It is an expiriment on stacking animation of rotation matrices together. It turned out to be more interesting then expected
 
