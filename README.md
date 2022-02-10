@@ -9,12 +9,11 @@ vector pos = v@P;
 vector origin_offset = getbbox_center(1);
 vector rot_axis = {0,1,0};
 
-//find distance to ball origin
+//find distance to pivot
 float dist = distance(pos,origin_offset);
 float falloff = fit(dist,chf('min_dist'),chf('max_dist'),0,1);
 f@falloff = falloff;
 falloff = chramp('falloff_remap',falloff);
-
 
 //create a rotation matrix by the falloff
 matrix rot = ident();
